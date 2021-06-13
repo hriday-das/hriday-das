@@ -1,7 +1,7 @@
 # HRIDAY DAS
 
 ## Skills
-php | MySQL | CSS | java
+php | MySQL | CSS | java |Bootstrap
 
 
 ## Education

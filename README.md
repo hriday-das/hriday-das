@@ -5,10 +5,12 @@
 
 
 ## Education
-B.Tech. - Information Technology <br>
-(2016 - 2020)<br>
 M.Tech-Computer Science  Engineering <br>
 (2020-2022)<br>
+
+B.Tech. - Information Technology <br>
+(2016 - 2020)<br>
+
 
 
 H.S- Science
